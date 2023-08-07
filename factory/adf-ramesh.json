@@ -1,0 +1,9 @@
+{
+	"name": "adf-ramesh",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "21e4485c-4254-4f99-ad51-74e74e135ca4",
+		"tenantId": "ae1e1b5f-1f30-445b-9aba-e20df17b8c47"
+	}
+}
