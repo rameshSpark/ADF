@@ -1,7 +1,0 @@
-{
-	"name": "integrationRuntimeGit",
-	"properties": {
-		"type": "SelfHosted",
-		"description": "this is for git "
-	}
-}
